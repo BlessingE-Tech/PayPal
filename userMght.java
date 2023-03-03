@@ -1,7 +1,7 @@
 landmark
 simon
 dominion
-Blessing
+Mercy
 Ayo
 Obi
 master
